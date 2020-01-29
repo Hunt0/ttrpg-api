@@ -1,6 +1,8 @@
-package com.tome.api
+package com.ttrpg.api
 
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration
 import org.springframework.boot.autoconfigure.SpringBootApplication
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
